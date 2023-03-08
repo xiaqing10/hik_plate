@@ -1,0 +1,3 @@
+/home/agx/sda/workspace/plate/build/CMakeFiles/rebuild_cache.dir
+/home/agx/sda/workspace/plate/build/CMakeFiles/edit_cache.dir
+/home/agx/sda/workspace/plate/build/CMakeFiles/plate.dir
